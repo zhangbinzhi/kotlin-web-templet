@@ -1,0 +1,1 @@
+mvn archetype:generate -DgroupId=com.lealone.kotlin -DartifactId=kotlin-web -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false  -DarchetypeCatalog=local
